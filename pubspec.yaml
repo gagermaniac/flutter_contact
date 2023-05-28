@@ -13,12 +13,6 @@ dependencies:
   logging: ^1.1.1
   quiver: ^3.0.1+1
   uuid: ^3.0.0
-  dartxx: 
-    path: /Users/ericm/reliveit/checkout/ericmartineau/dartxx
-  flexidate: 
-    path: /Users/ericm/reliveit/checkout/ericmartineau/flexidate
-  logging_config: 
-    path: /Users/ericm/reliveit/checkout/SunnyApp/logging_config
   flutter: 
     sdk: flutter
 dev_dependencies: 
